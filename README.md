@@ -14,7 +14,7 @@ A simple, in-browser, markdown-driven slideshow tool targeted at people who know
 - Simple markdown templates for customized slides
 - Touch support for smart phones and pads, i.e. swipe to navigate slides
 
-Check out [this remark slideshow](http://gnab.github.com/remark) for a brief introduction.
+Check out [this remark slideshow](http://gnab.github.io/remark) for a brief introduction.
 
 To render your Markdown-based slideshow on the fly, checkout [Remarkise](https://gnab.github.io/remark/remarkise).
 
